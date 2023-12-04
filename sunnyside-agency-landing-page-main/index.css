@@ -1,0 +1,24 @@
+:root {
+    --Soft_red: hsl(7, 99%, 70%)
+    --Yellow: hsl(51, 100%, 49%)
+    --Dark desaturated cyan (graphic design text): hsl(167, 40%, 24%)
+    --Dark_blue (photography text): hsl(198, 62%, 26%)
+    --Dark_moderate cyan (footer): hsl(168, 34%, 41%)
+}
+.img__content {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+.direccion {
+    position: absolute;
+    top: 360px;
+    left: 300px;
+}
+
+.control {
+    position: absolute;
+    top: 400px;
+    left: 10px;
+}
